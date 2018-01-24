@@ -5,5 +5,6 @@ green training images, to classify different pictures of traffic lights as red, 
 and then tests it's accuracy on a test set. 
 
 The traffic light images were provided by Udacity.
-Some of the code was provided by Udacity (downloading images, testing images), and is noted in the
+test_functions.py and some of the code in traffic-light_classifier.py
+was provided by Udacity (downloading images, testing images), and is noted in the
 comments of traffic_light_classifier.py. 
